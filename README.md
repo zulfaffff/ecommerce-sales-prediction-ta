@@ -69,7 +69,7 @@ Feature Importance: Analisis kontribusi fitur numerik dan fitur kata TF-IDF tera
 Clone Repository:
 
 Bash
-git clone [https://github.com/USERNAME_KAMU/ecommerce-sales-prediction-ta.git](https://github.com/USERNAME_KAMU/ecommerce-sales-prediction-ta.git)
+git clone [https://github.com/zulfaffff/ecommerce-sales-prediction-ta.git](https://github.com/USERNAME_KAMU/ecommerce-sales-prediction-ta.git)
 cd ecommerce-sales-prediction-ta
 Install Dependencies:
 
